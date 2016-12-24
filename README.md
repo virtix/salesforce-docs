@@ -43,9 +43,9 @@ and the various Product Teams building application solutions on the Salesforce p
 ### Salesforce Governance
 
 #### 1. Charter, Roles, and Operations
-- [Roles & Responsibilities](/_pages/roles-&-responsibilities.md)
-- [Salesforce Platform Charter](/_pages/mission-vision.md)
-- [Operations](/_pages/operations.md)
+- [Roles & Responsibilities](docs/roles-&-responsibilities.md)
+- [Salesforce Platform Charter](docs/mission-vision.md)
+- [Operations](docs/operations.md)
 
 
 #### Standards
@@ -53,21 +53,21 @@ and the various Product Teams building application solutions on the Salesforce p
 Note that technical design and implementation is reviewed by the Software Advisory Group (SwAG) 
 and signed off by the Principal Architect and the CoE.
 
-- [FAQs](/_pages/FAQs.md)
-- [T&I Org Structure](/_pages/Org-Chart.md)
-- [Architectural View](/_pages/architecture-view.md)
-- [Security Model (Permission Sets, Profiles)](/_pages/Security-Model-(Permission-Sets,-Profiles).md)
-- [Sharing & Security](/_pages/Record-Level-Sharing.md)
+- [FAQs](docs/FAQs.md)
+- [T&I Org Structure](docs/Org-Chart.md)
+- [Architectural View](docs/architecture-view.md)
+- [Security Model (Permission Sets, Profiles)](docs/Security-Model-(Permission-Sets,-Profiles).md)
+- [Sharing & Security](docs/Record-Level-Sharing.md)
 - [Software, Architecture, Data, and Visual Design Standards References]
-- [Technical Approach](/_pages/Technical-Approach.md)
-- [Agile Methodology](/_pages/Agile-Methodology.md)
-- [Center of Excellence (COE)](/_pages/Center-of-Excellence.md)
-- [Software Advisory Group (SwAG)](/_pages/SoftWare-Advisory-Group.md)
-- [Salesforce Best Practices](/_pages/Salesforce-Best-Practices.md)
-- [Exception Handling](/_pages/Exception-Handling.md)
-- [Testing & Debugging](/_pages/Testing-&-Debugging.md)
-- [Logging & Troubleshooting](/_pages/Logging-&-Debugging.md)
-- [Appendices](/_pages/Appendices.md)
+- [Technical Approach](docs/Technical-Approach.md)
+- [Agile Methodology](docs/Agile-Methodology.md)
+- [Center of Excellence (COE)](docs/Center-of-Excellence.md)
+- [Software Advisory Group (SwAG)](docs/SoftWare-Advisory-Group.md)
+- [Salesforce Best Practices](docs/Salesforce-Best-Practices.md)
+- [Exception Handling](docs/Exception-Handling.md)
+- [Testing & Debugging](docs/Testing-&-Debugging.md)
+- [Logging & Troubleshooting](docs/Logging-&-Debugging.md)
+- [Appendices](docs/Appendices.md)
 
 
 ----
