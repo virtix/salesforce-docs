@@ -1,15 +1,15 @@
 ###Effective Testing and Debugging
 
-- [Writing good tests](docs/Writing-good-tests.md)
-- [Unit testing](docs/Unit-testing.md)
+- [Writing good tests](/Writing-good-tests.md)
+- [Unit testing](/Unit-testing.md)
 - Browser Testing (SauceLabs) - More to come
 - Security Testing (Checkmarx) - More to come
 - 508/WCAG - More to come
-- [Top 10 Best Practices](docs/Top-10-Best-Practices.md)
+- [Top 10 Best Practices](/Top-10-Best-Practices.md)
 
 ####Testing
 
-(NOTE:  http://www.salesforce.com/us/developer/docs/apexcode/Content/apex_testing_best_practices.htm)
+(NOTE:  http://www.salesforce.com/us/developer//apexcode/Content/apex_testing_best_practices.htm)
 
 The following principles apply to unit testing Apex code
 
